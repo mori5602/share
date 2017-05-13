@@ -1,7 +1,6 @@
 
 # python 勉強資料
-
-
+---
 ## 1. はじめに  
 ### [1-1. pythonと本環境について](https://github.com/mori5602/share/blob/master/1-1/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB%E3%80%9Cpython%E3%81%A8%E6%9C%AC%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%9C.ipynb)  
       
